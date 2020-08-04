@@ -22,7 +22,15 @@
             "ename":"subtitle","pname":"قندان ۱۵ سانتیمتری و گلدان ۱۶ سانتیمتری مس و پرداز","price": "100000","tprice":"80000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-10-600x600.jpg"
         }
   ],
-  "profile22": {
-    "name": "typicode"
-  }
+  "home_slider" : [
+        {
+          "img":"https://hamanhonar.com/wp-content/uploads/2020/05/%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF3.jpg"
+        },
+        {
+          "img":"https://hamanhonar.com/wp-content/uploads/2020/05/%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF1233333.jpg"
+        },
+        {
+          "img":"https://hamanhonar.com/wp-content/uploads/2020/05/%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF4.png.jpg"
+        },
+    ]
 }
