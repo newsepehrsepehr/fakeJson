@@ -1,11 +1,11 @@
 {
-  "posts": [
-    {
-      "id": 100,
-      "title": "hello2"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "suggestions_products" = [
+    {ename:'subtitle',pname:'ست اجیل خوری فیروزه کوبی  با سنگ نیشابور',price: '20000',tprice:'15000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg'},
+    {ename:'subtitle',pname:'تندیس جاخودکاری بته',price: '30000',tprice:'10000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-17-600x600.jpg'},
+    {ename:'subtitle',pname:'سری سه تایی ظرف مسی میناکاری شده',price: '100000',tprice:'75000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-16-600x600.jpg'},
+    {ename:'subtitle',pname:'گلدان 20 سانتی متری مسی میناکاری شده',price: '10000',tprice:'9000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-15-600x600.jpg'},
+    {ename:'subtitle',pname:'فنجان و نعلبکی دمنوش seiko',price: '65000',tprice:'50000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-14-600x600.jpg'},
+    {ename:'subtitle',pname:'باکس گل قلبی ۱۲سانتی متری(گل مصنوعی)',price: '45000',tprice:'20000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-13-600x600.jpg'},
+    {ename:'subtitle',pname:'قندان ۱۵ سانتیمتری و گلدان ۱۶ سانتیمتری مس و پرداز',price: '100000',tprice:'80000',img:'https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-10-600x600.jpg'},
+]
 }
