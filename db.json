@@ -21,7 +21,6 @@
           "img":"https://hamanhonar.com/wp-content/uploads/2020/05/%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF4.png.jpg"
         }
     ],
-  "products_list": {
         "page=1" : [
             {
                 "id" : 1 , "ename":"subtitle","pname":"ست اجیل خوری فیروزه کوبی  با سنگ نیشابور","price": "20000","tprice":"15000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg"
@@ -103,5 +102,4 @@
                 "id" : 25 , "ename":"subtitle","pname":"فنجان و نعلبکی دمنوش seiko","price": "65000","tprice":"50000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-14-600x600.jpg"
             }
         ]
-    }
 }
