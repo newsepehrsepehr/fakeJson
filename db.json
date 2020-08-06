@@ -21,8 +21,9 @@
           "img":"https://hamanhonar.com/wp-content/uploads/2020/05/%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF4.png.jpg"
         }
     ],
-        "page=1" : [
-            {
+        "page=1" : {
+            "data" : [
+               {
                 "id" : 1 , "ename":"subtitle","pname":"ست اجیل خوری فیروزه کوبی  با سنگ نیشابور","price": "20000","tprice":"15000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg"
             },
             {
@@ -52,9 +53,13 @@
             {
                 "id" : 10 , "ename":"subtitle","pname":"قندان ۱۵ سانتیمتری و گلدان ۱۶ سانتیمتری مس و پرداز10","price": "100000","tprice":"80000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-10-600x600.jpg"
             }
-        ],
-        "page=2" : [
-            {
+            ],
+          "next_page" : 2,       
+},
+
+ "page=2" : {
+            "data" : [
+               {
                 "id" : 11 , "ename":"subtitle","pname":"ست اجیل خوری فیروزه کوبی  با سنگ نیشابور","price": "20000","tprice":"15000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg"
             },
             {
@@ -84,9 +89,13 @@
             {
                 "id" : 20 , "ename":"subtitle","pname":"قندان ۱۵ سانتیمتری و گلدان ۱۶ سانتیمتری مس و پرداز10","price": "100000","tprice":"80000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-10-600x600.jpg"
             }
-        ],
-        "page=3" : [
-            {
+            ],
+          "next_page" : 3,
+           
+},
+   "page=3" : {
+            "data" : [
+               {
                 "id" : 21 , "ename":"subtitle","pname":"ست اجیل خوری فیروزه کوبی  با سنگ نیشابور","price": "20000","tprice":"15000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg"
             },
             {
@@ -100,6 +109,13 @@
             },
             {
                 "id" : 25 , "ename":"subtitle","pname":"فنجان و نعلبکی دمنوش seiko","price": "65000","tprice":"50000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-14-600x600.jpg"
+            },
+            {
+                "id" : 26 , "ename":"subtitle","pname":"باکس گل قلبی ۱۲سانتی متری(گل مصنوعی)","price": "45000","tprice":"20000","img":"https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-13-600x600.jpg"
             }
-        ]
+            ],
+          "next_page" : "null",
+           
+},
+        
 }
