@@ -57,7 +57,8 @@
         ],
         "next_page" : 2,
         "current_page" : 1,
-        "prev_page" : "null"
+        "prev_page" : "null",
+        "status" : 200
     },
     "page=2" :{
         "data" : [
@@ -94,7 +95,8 @@
    ],
    "next_page" : 3,
    "current_page" : 2,
-   "prev_page" : 1
+   "prev_page" : 1,
+   "status" : 200
 },
 "page=3" :{
     "data" : [
@@ -119,7 +121,8 @@
 ],
 "next_page" : "0",
 "current_page" : 3,
-"prev_page" : 2
+"prev_page" : 2,
+"status" : 200
 }
         
 }
