@@ -124,7 +124,7 @@
 "prev_page" : 2,
 "status" : 200
 },
-  "login" :{
+"login" : {
     "data" : [
       "result" : "success",
       "token" : "abcdefghijklmnop"
