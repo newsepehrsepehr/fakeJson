@@ -125,10 +125,10 @@
 "status" : 200
 },
 "login" : {
-    "data" : [
+    "data" : {
       "result": "success",
       "token": "abcdefghijklmnop"
-     ]
+    }
 }
   
   
