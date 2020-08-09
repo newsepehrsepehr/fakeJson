@@ -126,8 +126,8 @@
 },
 "login" : {
     "data" : [
-      "result" : "success",
-      "token" : "abcdefghijklmnop"
+      "result": "success",
+      "token": "abcdefghijklmnop"
      ]
 }
   
