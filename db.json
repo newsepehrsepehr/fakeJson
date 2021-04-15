@@ -6,29 +6,9 @@
             "price": "20000",
             "tprice": "15000",
             "img": "https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-18-600x600.jpg"
-        },
-        {
-            "ename": "subtitle",
-            "pname": "پسته فندقی خام اعلا (300 گرمی)",
-            "price": "30000",
-            "tprice": "10000",
-            "img": "https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-17-600x600.jpg"
-        },
-        {
-            "ename": "subtitle",
-            "pname": "پسته فندقی خام اعلا (300 گرمی)",
-            "price": "100000",
-            "tprice": "75000",
-            "img": "https://hamanhonar.com/wp-content/uploads/2020/06/اسلایدمحصول-16-600x600.jpg"
         }
     ],
     "home_slider": [
-        {
-            "img": "https://pesterafsanjan.com/images/products/product/250/پسته2_350x350.jpg"
-        },
-        {
-            "img": "https://pesterafsanjan.com/images/products/product/250/پسته2_350x350.jpg"
-        },
         {
             "img": "https://pesterafsanjan.com/images/products/product/250/پسته2_350x350.jpg"
         }
